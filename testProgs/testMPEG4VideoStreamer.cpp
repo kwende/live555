@@ -23,7 +23,7 @@ along with this library; if not, write to the Free Software Foundation, Inc.,
 #include "GroupsockHelper.hh"
 
 UsageEnvironment* env;
-char const* inputFileName = "c:/users/brush/desktop/test.m4e";
+char const* inputFileName = "test.m4e";
 MPEG4VideoStreamFramer* videoSource;
 RTPSink* videoSink;
 
